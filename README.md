@@ -1,1 +1,1 @@
-### Template for Flutter projects
+### Flutter project template for VK Hackathon
