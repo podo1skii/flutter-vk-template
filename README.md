@@ -1,1 +1,1 @@
-# flutter-vk-template
+### Template for Flutter projects
